@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="8" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-01T22:58:45 PST" name="Default suite" finished-at="2023-12-01T22:58:47 PST" duration-ms="2023">
+    <groups>
+    </groups>
+    <test started-at="2023-12-01T22:58:45 PST" name="Default test" finished-at="2023-12-01T22:58:47 PST" duration-ms="2023">
+      <class name="com.nov.tests.finaltest.LoginToGithub">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nov.tests.finaltest.LoginToGithub@71a8adcf]" started-at="2023-12-01T22:58:45 PST" name="setUp" finished-at="2023-12-01T22:58:46 PST" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="nonexistdelRepo()[pri:0, instance:com.nov.tests.finaltest.LoginToGithub@71a8adcf]" started-at="2023-12-01T22:58:46 PST" name="nonexistdelRepo" finished-at="2023-12-01T22:58:47 PST" duration-ms="1536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nonexistdelRepo -->
+      </class> <!-- com.nov.tests.finaltest.LoginToGithub -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
